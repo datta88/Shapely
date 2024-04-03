@@ -121,3 +121,41 @@ header{
      width: 40%;
      margin-left: 20px;
 }
+.smoll-section{
+    background-image: url(../../public/image/water2.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    height:400px;
+    background-attachment: fixed;
+}
+.smoll-border{
+    /* border: 1px solid red; */
+    /* padding-top: 150px; */
+}
+.smoll-box-contener{
+    width: 70%;
+    /* border:1px solid red; */
+    margin: 10px auto;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+
+}
+.smoll-brand-title{
+    font-size: 50px;
+    font-family: arial;
+    display: block;
+    color: #fff;
+    /* border: 1px solid black; */
+}
+.smoll-brand-sub-title{
+    color: #fff;
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 35px;
+}
+.limitless-contener{
+    height: 1000px;
+    background-color: #fff;
+}
