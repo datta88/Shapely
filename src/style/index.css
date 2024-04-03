@@ -291,8 +291,19 @@ header {
     margin-top: 20px;
 }
 .article{
-    height: 1200px;
+    /* height:100px; */
     background-color: #fff;
+}
+.awesome-contener{
+    background-color:#f5f5f5 ;
+    padding: 100px;
+    font-size: 30px;
+}
+marquee{
+    font-size: 30px;
+    color: #3193b4;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 80px;
 }
 footer{
     background-color: #0e1015;
